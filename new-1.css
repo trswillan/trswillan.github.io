@@ -1,0 +1,27 @@
+body {
+  background-color: lightblue
+;
+}
+p {
+  color: navy;
+    text-align: center;
+}
+h2 {
+  font-weight: bold;
+    color: navy;
+    text-align: center;
+}
+
+img {
+    border-color: navy;
+    border-style: double;
+}
+.center {
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1 {
+    text-align: center;
+}

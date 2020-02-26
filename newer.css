@@ -1,0 +1,23 @@
+body {
+  background-color: seagreen;
+;
+}
+p {
+  color: greenyellow;
+    text-align: center;
+}
+h2 {
+  font-weight: bold;
+    color: greenyellow;
+    text-align: center;
+}
+
+img {
+    border-color: yellow;
+    border-style: double;
+}
+.center {
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+}

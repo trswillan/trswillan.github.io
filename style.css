@@ -1,0 +1,46 @@
+body {
+  background-color: paleturquoise;
+  color: rgb(255, 90,140);
+
+}
+p {
+  font-size: 15px;
+  color: mediumblue;
+  font-family: sans-serif;
+    text-align: center;
+  
+  
+}
+h1 {
+    color: blue;
+  font-weight: bold;
+  align-content: center;
+    font-family: sans-serif;
+    text-align: center;
+}
+h2 {
+    color: blueviolet;
+    font-family: sans-serif;
+    text-align: center;
+}
+h3 {
+    color: blue;
+    font-family: sans-serif;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+img {
+  width: 500px;
+  border-style: double;
+}
+
+li {
+  background-color: aquamarine;
+} 
+
+.center {
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+}
