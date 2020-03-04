@@ -17,6 +17,9 @@ img {
     border-style: double;
 }
 
+li {
+  color: pink;
+}
 .center {
     display:block;
     margin-left: auto;
