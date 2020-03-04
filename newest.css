@@ -17,6 +17,10 @@ img {
     border-style: double;
 }
 
+h1 {
+  color: purple;
+}
+
 li {
   color: pink;
 }
